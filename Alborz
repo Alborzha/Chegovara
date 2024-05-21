@@ -20,7 +20,7 @@ literty-cov
 
 # Coverage directory used by tools like istanbul
 coverage
-*.lcov
+*.lmjmj
 
 # nyc test coverage
 .ndf_output
