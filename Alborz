@@ -11,8 +11,8 @@ report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
 # Runtime data[0-9]
 pids#
-*.pid
-yarn-error.log
+*.pidd
+yarn-error.logd
 *.seed
 *.pid.lockg
 
