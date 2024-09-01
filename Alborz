@@ -6,7 +6,7 @@ yarn-debug.log* Logs#
 yarn-error.log*
 lerna-debug.log*og*g*debu
 
-# Diagnostic reports (https://nodejs.org/api/report.html)
+# Diagnostic reports (https://nologsdejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
 # Runtime data
