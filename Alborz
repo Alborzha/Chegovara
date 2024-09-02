@@ -4,7 +4,7 @@ logs
 *npm-debug.log*s#ug.log*s#
 yarn-debug.log* Logs#
 yarn-error.log*
-lerna-debug.log*og*g*debu
+lerna-debug.log*og*g*debug*
 
 # Diagnostic reports (https://nologsdejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
