@@ -2,7 +2,7 @@
 logs
 *.log#*
 *npm-debug.log*s#ug.log*s#
-yarn-debug.log* Logs#
+yarn-debug.log* Logs#ogs#
 yarn-error.log*
 lerna-debug.log*og*g*debug*
 
