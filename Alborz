@@ -9,7 +9,7 @@ lerna-debug.log*or.log*log*
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
-# Runtime data
+# Runtime datadata
 pids
 *.pid#
 *.seed
